@@ -1,0 +1,128 @@
+{
+    "road_pothole": {
+        "keywords": [
+            "pothole",
+            "road damage",
+            "damaged road",
+            "road crack",
+            "road infrastructure"
+        ],
+        "authority_type": "Municipal Corporation / Road Authority",
+        "department": "Road Maintenance Department",
+        "description": "Responsible for maintenance and repair of public roads.",
+        "priority": "High"
+    },
+
+    "broken_streetlight": {
+        "keywords": [
+            "broken streetlight",
+            "street light",
+            "streetlight",
+            "damaged street lamp",
+            "non-functional streetlight"
+        ],
+        "authority_type": "Municipal Corporation",
+        "department": "Electrical / Street Lighting Department",
+        "description": "Responsible for public street lighting infrastructure.",
+        "priority": "Medium"
+    },
+
+    "electrical_hazard": {
+        "keywords": [
+            "exposed wire",
+            "electric wire",
+            "electrical wire",
+            "fallen electrical wire",
+            "hanging electrical wire",
+            "electrical hazard"
+        ],
+        "authority_type": "Electricity Distribution Authority",
+        "department": "Electrical Safety / Distribution Department",
+        "description": "Responsible for electrical distribution infrastructure and electrical hazards.",
+        "priority": "Critical"
+    },
+
+    "garbage": {
+        "keywords": [
+            "garbage",
+            "waste",
+            "trash",
+            "dumped waste",
+            "illegal dumping",
+            "garbage accumulation"
+        ],
+        "authority_type": "Municipal Corporation",
+        "department": "Sanitation / Waste Management Department",
+        "description": "Responsible for public waste collection and sanitation.",
+        "priority": "Medium"
+    },
+
+    "blocked_drain": {
+        "keywords": [
+            "blocked drain",
+            "drainage",
+            "blocked drainage",
+            "clogged drain",
+            "open drain"
+        ],
+        "authority_type": "Municipal Corporation",
+        "department": "Drainage Department",
+        "description": "Responsible for public drainage infrastructure.",
+        "priority": "High"
+    },
+
+    "water_leakage": {
+        "keywords": [
+            "water leakage",
+            "water leak",
+            "broken water pipe",
+            "water pipeline",
+            "pipe leakage"
+        ],
+        "authority_type": "Water Supply Authority",
+        "department": "Water Supply / Pipeline Maintenance Department",
+        "description": "Responsible for public water supply infrastructure.",
+        "priority": "High"
+    },
+
+    "fallen_tree": {
+        "keywords": [
+            "fallen tree",
+            "tree fallen",
+            "fallen branch",
+            "tree obstruction",
+            "tree blocking road"
+        ],
+        "authority_type": "Municipal Corporation / Horticulture Authority",
+        "department": "Horticulture / Tree Management Department",
+        "description": "Responsible for public trees and vegetation management.",
+        "priority": "High"
+    },
+
+    "traffic_obstruction": {
+        "keywords": [
+            "traffic obstruction",
+            "road obstruction",
+            "blocked road",
+            "road blockage",
+            "vehicle obstruction"
+        ],
+        "authority_type": "Traffic Authority / Municipal Corporation",
+        "department": "Traffic Management Department",
+        "description": "Responsible for managing public traffic obstructions.",
+        "priority": "High"
+    },
+
+    "public_infrastructure": {
+        "keywords": [
+            "damaged infrastructure",
+            "public infrastructure",
+            "broken public property",
+            "damaged public property"
+        ],
+        "authority_type": "Municipal Corporation",
+        "department": "Public Infrastructure Department",
+        "description": "General public infrastructure maintenance.",
+        "priority": "Medium"
+    }
+}

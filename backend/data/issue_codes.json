@@ -1,0 +1,61 @@
+{
+    "ROAD_POTHOLE": {
+        "name": "Pothole / Road Damage",
+        "category": "Road Infrastructure",
+        "authority_id": "road_pothole"
+    },
+
+    "BROKEN_STREETLIGHT": {
+        "name": "Broken Streetlight",
+        "category": "Public Lighting",
+        "authority_id": "broken_streetlight"
+    },
+
+    "ELECTRICAL_HAZARD": {
+        "name": "Electrical Hazard",
+        "category": "Electrical Infrastructure",
+        "authority_id": "electrical_hazard"
+    },
+
+    "GARBAGE_ACCUMULATION": {
+        "name": "Garbage / Waste Accumulation",
+        "category": "Sanitation",
+        "authority_id": "garbage"
+    },
+
+    "BLOCKED_DRAIN": {
+        "name": "Blocked / Open Drain",
+        "category": "Drainage",
+        "authority_id": "blocked_drain"
+    },
+
+    "WATER_LEAKAGE": {
+        "name": "Water Leakage",
+        "category": "Water Infrastructure",
+        "authority_id": "water_leakage"
+    },
+
+    "FALLEN_TREE": {
+        "name": "Fallen Tree / Branch",
+        "category": "Public Environment",
+        "authority_id": "fallen_tree"
+    },
+
+    "TRAFFIC_OBSTRUCTION": {
+        "name": "Traffic / Road Obstruction",
+        "category": "Traffic Infrastructure",
+        "authority_id": "traffic_obstruction"
+    },
+
+    "PUBLIC_INFRASTRUCTURE_DAMAGE": {
+        "name": "Public Infrastructure Damage",
+        "category": "Public Infrastructure",
+        "authority_id": "public_infrastructure"
+    },
+
+    "OTHER_CIVIC_ISSUE": {
+        "name": "Other Civic Issue",
+        "category": "General Civic Issue",
+        "authority_id": null
+    }
+}
