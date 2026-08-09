@@ -92,7 +92,7 @@ function App() {
 
 
       const response = await fetch(
-        "http://127.0.0.1:8000/api/analyze",
+        "https://civic-issue-analyser-rhc6.vercel.app/api/analyze",
         {
           method: "POST",
           body: formData,
