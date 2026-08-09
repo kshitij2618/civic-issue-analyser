@@ -8,7 +8,7 @@ from fastapi import (
 
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.services.gemma_service import analyze_civic_issue
+from services.gemma_service import analyze_civic_issue
 
 
 # ============================================================

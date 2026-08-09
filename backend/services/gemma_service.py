@@ -4,7 +4,7 @@ import json
 from dotenv import load_dotenv
 from google import genai
 
-from backend.models.schemas import CivicIssueAnalysis
+from models.schemas import CivicIssueAnalysis
 
 
 # ============================================================
